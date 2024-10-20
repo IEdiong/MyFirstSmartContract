@@ -65,4 +65,5 @@ Choose the Compiler Version: Ensure that the compiler version matches the one sp
 
 The comments in this file that look something like this
 > *(Like this)*
+
 are my observations and challenges. They were mostly solved by exploring the Remix IDE to discover things for myself.
